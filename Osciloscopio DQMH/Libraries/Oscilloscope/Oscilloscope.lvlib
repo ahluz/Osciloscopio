@@ -20,6 +20,13 @@
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="Set COM Port Argument--cluster.ctl" Type="VI" URL="../Set COM Port Argument--cluster.ctl"/>
 				<Item Name="Initialize OSC Argument--cluster.ctl" Type="VI" URL="../Initialize OSC Argument--cluster.ctl"/>
+				<Item Name="Close Argument--cluster.ctl" Type="VI" URL="../Close Argument--cluster.ctl"/>
+				<Item Name="Autosetup Argument--cluster.ctl" Type="VI" URL="../Autosetup Argument--cluster.ctl"/>
+				<Item Name="Configure Channel Argument--cluster.ctl" Type="VI" URL="../Configure Channel Argument--cluster.ctl"/>
+				<Item Name="Read Waveform Argument--cluster.ctl" Type="VI" URL="../Read Waveform Argument--cluster.ctl"/>
+				<Item Name="Read Measurement Argument--cluster.ctl" Type="VI" URL="../Read Measurement Argument--cluster.ctl"/>
+				<Item Name="Read Measurement 2 Channels Argument--cluster.ctl" Type="VI" URL="../Read Measurement 2 Channels Argument--cluster.ctl"/>
+				<Item Name="Reset Argument--cluster.ctl" Type="VI" URL="../Reset Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -35,6 +42,13 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Set COM Port.vi" Type="VI" URL="../Set COM Port.vi"/>
 			<Item Name="Initialize OSC.vi" Type="VI" URL="../Initialize OSC.vi"/>
+			<Item Name="Close.vi" Type="VI" URL="../Close.vi"/>
+			<Item Name="Autosetup.vi" Type="VI" URL="../Autosetup.vi"/>
+			<Item Name="Configure Channel.vi" Type="VI" URL="../Configure Channel.vi"/>
+			<Item Name="Read Waveform.vi" Type="VI" URL="../Read Waveform.vi"/>
+			<Item Name="Read Measurement.vi" Type="VI" URL="../Read Measurement.vi"/>
+			<Item Name="Read Measurement 2 Channels.vi" Type="VI" URL="../Read Measurement 2 Channels.vi"/>
+			<Item Name="Reset.vi" Type="VI" URL="../Reset.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -113,4 +127,5 @@
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	<Item Name="Get Classes Names.vi" Type="VI" URL="../Get Classes Names.vi"/>
+	<Item Name="Set Class Instance.vi" Type="VI" URL="../Set Class Instance.vi"/>
 </Library>
