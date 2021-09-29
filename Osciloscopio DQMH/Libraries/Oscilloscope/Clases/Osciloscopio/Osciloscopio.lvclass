@@ -52,7 +52,7 @@
 		</Item>
 	</Item>
 	<Item Name="Autosetup.vi" Type="VI" URL="../Autosetup.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;$!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!J%E^T9WFM&lt;'^T9W^Q:3ZM&gt;GRJ9B20=W.J&lt;'^T9W^Q;7]O&lt;(:D&lt;'&amp;T=Q!14X.D;7RP=W.P='FP)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"#1(!!(A!!+2*0=W.J&lt;'RP=W.P='5O&lt;(:M;7)54X.D;7RP=W.P='FP,GRW9WRB=X-!$U^T9WFM&lt;X.D&lt;X"J&lt;S"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!E!!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!E!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;$!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!J%E^T9WFM&lt;'^T9W^Q:3ZM&gt;GRJ9B20=W.J&lt;'^T9W^Q;7]O&lt;(:D&lt;'&amp;T=Q!14X.D;7RP=W.P='FP)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"#1(!!(A!!+2*0=W.J&lt;'RP=W.P='5O&lt;(:M;7)54X.D;7RP=W.P='FP,GRW9WRB=X-!$U^T9WFM&lt;X.D&lt;X"J&lt;S"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
