@@ -16,6 +16,7 @@
 		<Item Name="Test Oscilloscope API.vi" Type="VI" URL="../Libraries/Oscilloscope/Test Oscilloscope API.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
+				<Item Name="Agilent 2000 3000 X-Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Agilent 2000 3000 X-Series/Agilent 2000 3000 X-Series.lvlib"/>
 				<Item Name="Tektronix TDS 200 1000 2000 Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Tektronix TDS 200 1000 2000 Series/Tektronix TDS 200 1000 2000 Series.lvlib"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">

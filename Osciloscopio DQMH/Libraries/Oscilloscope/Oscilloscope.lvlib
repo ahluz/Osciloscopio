@@ -129,6 +129,7 @@
 	<Item Name="Class" Type="Folder">
 		<Item Name="Osciloscopio.lvclass" Type="LVClass" URL="../Clases/Osciloscopio/Osciloscopio.lvclass"/>
 		<Item Name="TDS 2000.lvclass" Type="LVClass" URL="../Clases/TDS 2000/TDS 2000.lvclass"/>
+		<Item Name="KS EDU-X 1002G.lvclass" Type="LVClass" URL="../KS EDU-X 1002G/KS EDU-X 1002G.lvclass"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	<Item Name="Get Classes Names.vi" Type="VI" URL="../Get Classes Names.vi"/>
