@@ -27,6 +27,9 @@
 				<Item Name="Read Measurement Argument--cluster.ctl" Type="VI" URL="../Read Measurement Argument--cluster.ctl"/>
 				<Item Name="Read Measurement 2 Channels Argument--cluster.ctl" Type="VI" URL="../Read Measurement 2 Channels Argument--cluster.ctl"/>
 				<Item Name="Reset Argument--cluster.ctl" Type="VI" URL="../Reset Argument--cluster.ctl"/>
+				<Item Name="Read Waveform RP Argument--cluster.ctl" Type="VI" URL="../Read Waveform RP Argument--cluster.ctl"/>
+				<Item Name="Read Waveform RP (Reply Payload)--cluster.ctl" Type="VI" URL="../Read Waveform RP (Reply Payload)--cluster.ctl"/>
+				<Item Name="Initialize oscilloscope Argument--cluster.ctl" Type="VI" URL="../Initialize oscilloscope Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -49,6 +52,8 @@
 			<Item Name="Read Measurement.vi" Type="VI" URL="../Read Measurement.vi"/>
 			<Item Name="Read Measurement 2 Channels.vi" Type="VI" URL="../Read Measurement 2 Channels.vi"/>
 			<Item Name="Reset.vi" Type="VI" URL="../Reset.vi"/>
+			<Item Name="Read Waveform RP.vi" Type="VI" URL="../Read Waveform RP.vi"/>
+			<Item Name="Initialize oscilloscope.vi" Type="VI" URL="../Initialize oscilloscope.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

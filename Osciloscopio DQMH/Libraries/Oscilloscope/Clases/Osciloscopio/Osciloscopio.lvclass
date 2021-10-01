@@ -88,13 +88,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="Read (Waveform).vi" Type="VI" URL="../Read (Waveform).vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!',!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!6!!$$6&gt;B&gt;G6G&lt;X*N)%2B&gt;'%!2%"Q!"Y!!#E34X.D;7RM&lt;X.D&lt;X"F,GRW&lt;'FC&amp;%^T9WFM&lt;X.D&lt;X"J&lt;SZM&gt;G.M98.T!""0=W.J&lt;'^T9W^Q;7]A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"F!"Q!36'FN:7^V&gt;#!I-4!Q-$!A&lt;8-J!!!&lt;1!9!&amp;6.P&gt;8*D:3!I-$IA1WBB&lt;GZF&lt;#!R+1"#1(!!(A!!+2*0=W.J&lt;'RP=W.P='5O&lt;(:M;7)54X.D;7RP=W.P='FP,GRW9WRB=X-!$U^T9WFM&lt;X.D&lt;X"J&lt;S"J&lt;A"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!)!!E!#A)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!A!!!!)!!!!E!!!!!!"!!M!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'C!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!6!!$$6&gt;B&gt;G6G&lt;X*N)%2B&gt;'%!2%"Q!"Y!!#E34X.D;7RM&lt;X.D&lt;X"F,GRW&lt;'FC&amp;%^T9WFM&lt;X.D&lt;X"J&lt;SZM&gt;G.M98.T!""0=W.J&lt;'^T9W^Q;7]A&lt;X6U!!!81!I!%&amp;"S&lt;W*F)'&amp;U:7ZV982J&lt;WY!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'5!(!"*5;7VF&lt;X6U)#AR-$!Q-#"N=SE!!"N!"A!65W^V=G.F)#AQ/C"$;'&amp;O&lt;G6M)$%J!%*!=!!?!!!J%E^T9WFM&lt;'^T9W^Q:3ZM&gt;GRJ9B20=W.J&lt;'^T9W^Q;7]O&lt;(:D&lt;'&amp;T=Q!04X.D;7RP=W.P='FP)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"Q!)!!E!#A!,!A!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!A!!!!)!!!!#!!!!!A!!!#1!!!!!!%!$!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="Read Measurement 2 Channels.vi" Type="VI" URL="../Read Measurement 2 Channels.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!("!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!Q`````Q66&lt;GFU=Q!21!I!#UVF98.V=G6N:7ZU!%2!=!!?!!!J%E^T9WFM&lt;'^T9W^Q:3ZM&gt;GRJ9B20=W.J&lt;'^T9W^Q;7]O&lt;(:D&lt;'&amp;T=Q!14X.D;7RP=W.P='FP)'^V&gt;!!!"!!!!#&amp;!!Q!&lt;476B=X6S:7VF&lt;H1A6(FQ:3!I-$IA5'BB=W5J!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!(U!$!"B$;'&amp;O&lt;G6M)$)A+$)[)%.I97ZO:7QA-CE!!"^!!Q!91WBB&lt;GZF&lt;#!R)#AR/C"$;'&amp;O&lt;G6M)$%J!!"#1(!!(A!!+2*0=W.J&lt;'RP=W.P='5O&lt;(:M;7)54X.D;7RP=W.P='FP,GRW9WRB=X-!$U^T9WFM&lt;X.D&lt;X"J&lt;S"J&lt;A"5!0!!$!!$!!1!"1!'!!=!"Q!)!!=!#1!+!!M!$!)!!(A!!!U)!!!*!!!!#1!!!)U,!!!!!!!!!!!!!!A!!!!!!!!!#!!!!!A!!!!)!!!!E!!!!!!"!!U!!!!!</Property>
